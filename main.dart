@@ -7,4 +7,3 @@ void main() {
   scoreBoard(currencies);
   currencies.selectExchange();
 }
-
